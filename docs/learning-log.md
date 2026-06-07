@@ -10,3 +10,5 @@
 - 2026-06-07: Day 5 確認テスト（`day5-test.md`）を追加。
 - 2026-06-07: Day 6 勉強用資料（`day6-study-sheet.md`）を追加。
 - 2026-06-07: Day 6 確認テスト（`day6-test.md`）を追加。
+- 2026-06-07: Day 7 勉強用資料（`day7-study-sheet.md`）を追加。
+- 2026-06-07: Day 7 確認テスト（`day7-test.md`）を追加。
